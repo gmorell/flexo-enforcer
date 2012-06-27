@@ -1,0 +1,3 @@
+Supybot plugin to kick people for using words, needs work, POC mostly
+
+TODO: ability to add arbritrary regex from channel for a specified amount of time enable/disable
